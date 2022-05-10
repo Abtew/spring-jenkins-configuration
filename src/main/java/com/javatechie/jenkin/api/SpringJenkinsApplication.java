@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SpringJenkinsApplication {
 
 	public static Logger logger = LoggerFactory.getLogger(SpringJenkinsApplication.class);
+	
 	@GetMapping("/ping")
 	public String message() {
 		return "Wao!! Application Deployed successfully in SAP Cloud..";

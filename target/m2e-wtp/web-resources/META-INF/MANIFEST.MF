@@ -3,7 +3,7 @@ Built-By: abate
 Build-Jdk: 17.0.2
 Implementation-Title: spring-jenkins
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.javatechie
+Implementation-Vendor-Id: com.test
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
  -starter-parent/spring-jenkins
 Created-By: Maven Integration for Eclipse
